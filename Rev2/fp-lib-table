@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "1uCap-HMK316B7105KL8T-pcb-part-libraries")(type "KiCad")(uri "${KIPRJMOD}/components/1uCap-HMK316B7105KL8T-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "10nCap-C1206C103FAGECAUTO7210-pcb-part-libraries-1")(type "KiCad")(uri "${KIPRJMOD}/components/10nCap-C1206C103FAGECAUTO7210-pcb-part-libraries-1")(options "")(descr ""))
+  (lib (name "30OhmRes-RT1206FRE0730RL-pcb-part-libraries")(type "KiCad")(uri "${KIPRJMOD}/components/30OhmRes-RT1206FRE0730RL-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "m2-2199230-4-pcb-part-libraries")(type "KiCad")(uri "${KIPRJMOD}/components/m2-2199230-4-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "tvs-diode-CGA0603MLC-05E-pcb-part-libraries")(type "KiCad")(uri "${KIPRJMOD}/components/tvs-diode-CGA0603MLC-05E-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "usbc-USB4110-GF-A-pcb-part-libraries")(type "KiCad")(uri "${KIPRJMOD}/components/usbc-USB4110-GF-A-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "VoltReg-REG113EA-3")(type "KiCad")(uri "${KIPRJMOD}/components/VoltReg-REG113EA-3.3_250-pcb-part-libraries")(options "")(descr ""))
+)

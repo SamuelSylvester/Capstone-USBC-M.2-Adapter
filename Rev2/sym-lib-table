@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "HMK316B7105KL8T")(type "Legacy")(uri "${KIPRJMOD}/components/1uCap-HMK316B7105KL8T-pcb-part-libraries/HMK316B7105KL8T.lib")(options "")(descr ""))
+  (lib (name "C1206C103FAGECAUTO7210")(type "Legacy")(uri "${KIPRJMOD}/components/10nCap-C1206C103FAGECAUTO7210-pcb-part-libraries-1/C1206C103FAGECAUTO7210.lib")(options "")(descr ""))
+  (lib (name "RT1206FRE0730RL")(type "Legacy")(uri "${KIPRJMOD}/components/30OhmRes-RT1206FRE0730RL-pcb-part-libraries/RT1206FRE0730RL.lib")(options "")(descr ""))
+  (lib (name "2199230-4")(type "Legacy")(uri "${KIPRJMOD}/components/m2-2199230-4-pcb-part-libraries/2199230-4.lib")(options "")(descr ""))
+  (lib (name "CGA0603MLC-05E")(type "Legacy")(uri "${KIPRJMOD}/components/tvs-diode-CGA0603MLC-05E-pcb-part-libraries/CGA0603MLC-05E.lib")(options "")(descr ""))
+  (lib (name "USB4110-GF-A")(type "Legacy")(uri "${KIPRJMOD}/components/usbc-USB4110-GF-A-pcb-part-libraries/USB4110-GF-A.lib")(options "")(descr ""))
+  (lib (name "REG113EA-3.3_250")(type "Legacy")(uri "${KIPRJMOD}/components/VoltReg-REG113EA-3.3_250-pcb-part-libraries/REG113EA-3.3_250.lib")(options "")(descr ""))
+)

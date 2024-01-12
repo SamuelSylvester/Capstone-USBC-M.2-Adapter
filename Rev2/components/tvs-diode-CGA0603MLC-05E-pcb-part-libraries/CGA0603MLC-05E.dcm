@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CGA0603MLC-05E
+D Bourns CGA0603MLC-05E ESD Protection Diode, 2-Pin MLC
+K
+F https://www.bourns.com/docs/Product-Datasheets/CGA-MLC.pdf?sfvrsn=65
+$ENDCMP
+#
+#End Doc Library
